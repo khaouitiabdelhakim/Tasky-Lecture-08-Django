@@ -3,7 +3,7 @@ Django app Tasky:
 <p align="center"><a href="https://www.djangoproject.com/" target="_blank"><img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" width="300" alt="Django Logo"></a></p>
 
 <p align="center">
-<a href="https://github.com/django/django/actions"><img src="https://github.com/django/django/workflows/tests/badge.svg" alt="Build Status"></a>
+
 <a href="https://pypi.org/project/Django/"><img src="https://img.shields.io/pypi/djversions/django" alt="Django Versions"></a>
 <a href="https://pypi.org/project/Django/"><img src="https://img.shields.io/pypi/pyversions/django" alt="Python Versions"></a>
 <a href="https://github.com/django/django/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/django" alt="License"></a>

@@ -59,7 +59,7 @@ cd Tasky-Lecture-08-Django
 
 pip install virtualenv
 
-virtualenv venv
+virtualenv venv  [or py -m venv .venv]
 
 .\venv\Scripts\activate
 

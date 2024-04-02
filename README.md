@@ -57,9 +57,13 @@ git clone https://github.com/khaouitiabdelhakim/Tasky-Lecture-08-Django.git
 
 cd Tasky-Lecture-08-Django
 
-pip install -r requirements.txt
+pip install virtualenv
 
-cp .env.example .env
+virtualenv venv
+
+.\venv\Scripts\activate
+
+pip install -r requirements.txt
 
 python manage.py migrate
  
